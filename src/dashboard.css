@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;700&display=swap");
+body {
+  font-family: "Nunito", sans-serif;
+  background-color: black;
+  color: white;
+}
+.widgetWrap {
+  background-color: tomato;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+.widgetTitle {
+  border-bottom: 3px solid white;
+  text-transform: uppercase;
+  text-align: left;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 10px 10px;
+}
+.widgetValue .value {
+  font-size: 57px;
+  text-align: left;
+  padding: 0px 7px;
+  font-size: 50px;
+}
+.description {
+  text-align: left;
+  font-size: 12px;
+  padding-left: 13px;
+}
+.widgetValue {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+text {
+  fill: white;
+}
+.TopHeader {
+  margin-bottom: 10px;
+  padding: 13px;
+  font-size: 23px;
+  color: white;
+  text-align: left;
+  font-weight: bold;
+}
